@@ -1,6 +1,6 @@
- Adebayo Anuoluwapo Ibukun (Anuoluwapo02)
+ 𝐀𝐝𝐞𝐛𝐚𝐲𝐨 𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨 𝐈𝐛𝐮𝐤𝐮𝐧 (𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨02)
 
- 💻 Full-Stack Web Developer | Turning Ideas into Robust Digital Solutions
+ 💻 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐑𝐨𝐛𝐮𝐬𝐭 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬
 
 
 👋 Hello! I'm a dedicated Full-Stack Developer specializing in building scalable, efficient, and user-friendly web applications.
