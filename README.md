@@ -1,14 +1,27 @@
-## 👋 𝐇𝐢, 𝐈’𝐦 𝐀𝐝𝐞𝐛𝐚𝐲𝐨 𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨 𝐈𝐛𝐮𝐤𝐮𝐧 (@𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨02)
+ Adebayo Anuoluwapo Ibukun (Anuoluwapo02)
 
-- 👀 𝐈’𝐦 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐰𝐞𝐛 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭, 𝐮𝐬𝐞𝐫-𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬.  
-- 🌱 𝐈’𝐦  a 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 (𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐏𝐇𝐏, 𝐌𝐲𝐒𝐐𝐋, 𝐚𝐧𝐝 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 𝐥𝐢𝐤𝐞 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩).  
-- 💞️ 𝐈’𝐦 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐧𝐠 𝐨𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 — 𝐛𝐨𝐭𝐡 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐚𝐧𝐝 𝐛𝐚𝐜𝐤𝐞𝐧𝐝.  
-- 📫 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐯𝐢𝐚 𝐞𝐦𝐚𝐢𝐥 𝐚𝐭 **𝐢𝐛𝐮𝐤𝐮𝐧𝐚𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨5@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**  
-- ⚡ 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: 𝐈 𝐥𝐨𝐯𝐞 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐜𝐥𝐞𝐚𝐧 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐜𝐨𝐝𝐞.  
+ 💻 Full-Stack Web Developer | Turning Ideas into Robust Digital Solutions
 
----
 
-<!---
-𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨02/𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨02 𝐢𝐬 𝐚 ✨ 𝐬𝐩𝐞𝐜𝐢𝐚𝐥 ✨ 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐢𝐭𝐬 `𝐑𝐄𝐀𝐃𝐌𝐄.𝐦𝐝` (𝐭𝐡𝐢𝐬 𝐟𝐢𝐥𝐞) 𝐚𝐩𝐩𝐞𝐚𝐫𝐬 𝐨𝐧 𝐲𝐨𝐮𝐫 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞.  
-𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐥𝐢𝐜𝐤 𝐭𝐡𝐞 𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐥𝐢𝐧𝐤 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐚 𝐥𝐨𝐨𝐤 𝐚𝐭 𝐲𝐨𝐮𝐫 𝐜𝐡𝐚𝐧𝐠𝐞𝐬.
---->
+👋 Hello! I'm a dedicated Full-Stack Developer specializing in building scalable, efficient, and user-friendly web applications.
+
+🛠️ My Core Skills
+
+* Frontend: HTML5, CSS3, JavaScript (ES6+), Bootstrap
+* Backend: PHP, MySQL
+* Frameworks/Tools: (Add any specific PHP or JS framework/library here, e.g., Laravel, Symfony, React, Node.js)
+* Version Control: Git, GitHub
+
+⭐ What I Bring to Your Team
+
+* Problem Solver:  Proven ability to translate complex real-world problems into clean, creative, and maintainable code.
+* Full-Cycle Development:  Experienced in handling projects from initial concept and database design to deployment.
+* Collaboration: Eager to contribute to team environments and open-source projects.
+
+🤝 Let's Connect for Projects!
+
+I am actively looking for **Freelance Opportunities** and **Full-Time Roles** in web development.
+
+* View My portfolio: https://webexpert.free.nf/
+* Email Me:     ibukunanuoluwapo5@gmail.com
+* Connect on LinkedIn: linkedin.com/in/anuoluwapo-ibukun-286a53367
