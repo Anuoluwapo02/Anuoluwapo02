@@ -1,4 +1,4 @@
- 𝐀𝐝𝐞𝐛𝐚𝐲𝐨 𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨 𝐈𝐛𝐮𝐤𝐮𝐧 (𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨02)
+ 𝐀𝐝𝐞𝐛𝐚𝐲𝐨 𝐀𝐧𝐮𝐨𝐥𝐮𝐰𝐚𝐩𝐨 𝐈𝐛𝐮𝐤𝐮𝐧 (Webexpert)
 
  💻 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐢𝐧𝐭𝐨 𝐑𝐨𝐛𝐮𝐬𝐭 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬
 
@@ -22,6 +22,6 @@
 
 I am actively looking for **Freelance Opportunities** and **Full-Time Roles** in web development.
 
-* View My portfolio: https://webexpert.free.nf/
-* Email Me:     ibukunanuoluwapo5@gmail.com
-* Connect on LinkedIn: linkedin.com/in/anuoluwapo-ibukun-286a53367
+ View My portfolio: https://webexpert.free.nf/
+ Email Me:     ibukunanuoluwapo5@gmail.com
+ Connect on LinkedIn: www.linkedin.com/in/anuoluwapo-ibukun-webexpert-286a53367
